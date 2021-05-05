@@ -1,1 +1,2 @@
-I think uploading the files from my remove github and transfering the local files into remove github are difficult.
+using pycharm is difficult.
+i do not know if it is effective to edit the code on github directly.
