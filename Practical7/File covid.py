@@ -27,6 +27,7 @@ import matplotlib.pyplot as plt
 plt.boxplot(world_data.new_cases,
             labels={'new cases worldwide'},
            boxprops={'color': 'yellow'})
+plt.title('boxplot of new cases worldwide')
 plt.show()
 
 # plotted both new cases and new deaths worldwide.
