@@ -11,5 +11,6 @@ plt.pie(sizes,
            autopct = '%3.2f%%',# Values remain fixed decimal places
            shadow = False, # No shadow Settings
            pctdistance = 0.6)# Distance multiple of the center radius from the value
+plt.title('compare corenavirus infection rates across countries',loc='right',size=20) #add title
 plt.axis('equal')# The X and Y axes are set to the same scale to ensure the pie is round
 plt.show()
