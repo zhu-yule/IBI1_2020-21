@@ -1,6 +1,7 @@
-#Define the Fibonacci sequence
+# Define the Fibonacci sequence
 def fib(number):
-    
+
+# give initial value
     a,b=0,1
     n=0
     lst=[]
