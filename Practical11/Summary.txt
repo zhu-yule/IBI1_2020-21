@@ -22,5 +22,5 @@ percentage 0.8963963963963963
 
 Interpretation
 From the output, both similar percentages and alignment scores were the highest, so we can know that the similarity between mouse and human is highest compared to other groups. 
-Humans and mice share 85 percent of the same protein-coding genes.From an evolutionary point of view, humans and mice belong to the same group of mammals, land vertebrates, and euarchontoglires. They also descended from the same ancestor 80 million years ago.
+Humans and mice share 85 percent of the same protein-coding genes. From an evolutionary point of view, humans and mice belong to the same group of mammals, land vertebrates, and euarchontoglires. They also descended from the same ancestor 80 million years ago.
 But genetic mutations and the accumulation of genetic variations, combined with the selection of different environments, make mice and humans different in size. The similarities between human and mouse protein genes can also be seen in laboratory experiments on mice.
