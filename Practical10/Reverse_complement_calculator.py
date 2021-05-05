@@ -9,13 +9,13 @@ seq2 = seq1.upper()
 s = ''
 for i in range(len(seq2)):
     if seq2[i] == 'A':
-        s = 'T' + s
+        s += 'T'
     elif seq2[i] == 'G':
-        s = 'C' + s
+        s += 'C'
     elif seq2[i] == 'C':
-        s = 'G' + s
+        s += 'G' 
     elif seq2[i] == 'T':
-        s = 'A' + s
+        s += 'A' 
     else:
         print('This is an invalid sequence')
         break
